@@ -3,7 +3,6 @@
 
 <h3 align="left">Contact with me</h3>
 <div align="left">
-<a href="https://www.linkedin.com/in/valid-nasirli/" target"blank_"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=008000"></a>
 <a href="https://github.com/n4s1rl1" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=008000"></a>
 </div>
 
